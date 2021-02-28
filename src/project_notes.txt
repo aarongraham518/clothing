@@ -1,0 +1,6 @@
+//Add new remote repo
+git remote add origin git@github.com:aarongraham518/clothing.git 
+//check status
+git status
+//Add all files
+git add -A
