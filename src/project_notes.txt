@@ -4,3 +4,7 @@ git remote add origin git@github.com:aarongraham518/clothing.git
 git status
 //Add all files
 git add -A
+//commit all changes
+git commit -m "message notes"
+//push up committed changes
+git push origin master
