@@ -56,7 +56,7 @@ class Directory extends React.Component {
                             key={id} 
                             {...otherSectionProps}
                         />
-                    ))
+                    )) 
                 }
             </div>
         )

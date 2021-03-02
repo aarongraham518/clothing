@@ -19,5 +19,5 @@ const MenuItem = ({title, imageUrl, size, history, linkUrl, match}) => (
     </div>
 );
 
-//now have access to history
+//now have access to history via "withRouter"
 export default withRouter(MenuItem);
