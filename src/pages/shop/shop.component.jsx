@@ -1,8 +1,7 @@
 import React from 'react';
 
 // import SHOP_DATA from './shop.data.js';
-import SHOP_DATA from './shopdataonline.js';
-
+import SHOP_DATA from './updatedShopDataOnline.js';
 
 import CollectionPreview from '../../components/collection-preview/collection-preview';
 
